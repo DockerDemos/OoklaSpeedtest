@@ -3,7 +3,7 @@
 #
 
 
-FROM centos
+FROM centos:centos6
 MAINTAINER Chris Collins <collins.christopher@gmail.com>
 
 ADD mini.zip /mini.zip
